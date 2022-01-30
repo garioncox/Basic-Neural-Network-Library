@@ -1,0 +1,60 @@
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.deps.json
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\ref\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.pdb
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.AssemblyReference.cache
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfoInputs.cache
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfo.cs
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.CoreCompileInputs.cache
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\ref\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.pdb
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.deps.json
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\ref\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.pdb
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfoInputs.cache
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfo.cs
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\ref\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.pdb
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.deps.json
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\ref\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.pdb
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.AssemblyReference.cache
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfoInputs.cache
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfo.cs
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.CoreCompileInputs.cache
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\ref\NeuralNetwork.dll
+E:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.pdb
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csprojAssemblyReference.cache
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfoInputs.cache
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfo.cs
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\ref\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.pdb
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.deps.json
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\ref\NeuralNetwork.dll
+D:\Neural Network (CS 1410 Final Project) - Copy\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.pdb
+D:\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csprojAssemblyReference.cache
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.deps.json
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.dll
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\ref\NeuralNetwork.dll
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.pdb
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.AssemblyReference.cache
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfoInputs.cache
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfo.cs
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.CoreCompileInputs.cache
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.dll
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\ref\NeuralNetwork.dll
+E:\(CS 1410-1415) OOP Programs\Neural Network (CS 1410 Final Project)\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.pdb
